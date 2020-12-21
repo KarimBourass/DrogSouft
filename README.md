@@ -1,6 +1,6 @@
 # Projet Fin d'Année
 
-Ce projet a été réalisé dans le cadre du projet de fin d'année au sein de la commune d'Agadir.
+Ce projet a été réalisé dans le cadre du projet de fin d'année a l'ENSA d'Aagadir .
 
 Cette repo contient la partie back end, pour voir la partie front end
 Front end : https://github.com/KarimBourass/DrogSouft-FrontEnd
